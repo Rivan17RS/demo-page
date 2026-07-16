@@ -25,5 +25,6 @@ curl localhost
 ```
 # titulo 2
 Ivan Rojas Salazar
-7/16/2026
+Integracion y despliegue continuo
+
 ## subtitulo 2
